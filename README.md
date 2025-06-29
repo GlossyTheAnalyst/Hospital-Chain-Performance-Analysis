@@ -1,6 +1,5 @@
-![Holy Cross](https://github.com/user-attachments/assets/234c9d49-1b60-47ce-91ec-d5ba91147e4c)# Holy Cross Hospital Chain Performance Dashboard (2019–2024)
+# Holy Cross Hospital Chain Performance Dashboard (2019–2024)
 
-## Introduction:
 This dashboard presents a multi-dimensional performance analysis of the Holy Cross Hospital Chain over a six-year period. Using visual analytics, the dashboard provides an overview of patient demographics, insurance revenue, hospital performance, medication di!
 stribution, and year-on-year revenue trends. The objective is to identify critical insights that can inform future planning, resource allocation, and operational improvements within the hospital chain.
 
